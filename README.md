@@ -35,7 +35,7 @@ We began by identifying, unpacking, and organising the hardware required for the
 This included new displays, printers, workstation equipment, UPS units, and network components. Preparing the equipment first allowed several devices to be staged before moving them to their final locations.
 
 <p align="center">
- <img width="296" height="382" alt="image" src="https://github.com/user-attachments/assets/0c812477-d6bc-4148-8d9a-f2c85ebfd354" />
+ <img width="500" height="676" alt="image" src="https://github.com/user-attachments/assets/5f6ac7f3-924c-40ac-b483-c430f2c20062" />
   &nbsp;&nbsp;
   <img width="307" height="307" alt="image" src="https://github.com/user-attachments/assets/94187220-5459-428b-8b9d-5c283744b049" />
 </p>
