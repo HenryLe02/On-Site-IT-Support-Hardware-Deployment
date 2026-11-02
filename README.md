@@ -251,9 +251,9 @@ The completed workstations were left fully connected, tested, and ready for user
 
 This deployment gave me valuable hands-on experience working alongside a senior technician in a live business environment.
 
-I gained a better understanding of the complete on-site deployment process — from preparing equipment and configuring workstations to troubleshooting, testing, and final handover.
+I gained a better understanding of the complete on-site deployment process, from preparing equipment and configuring workstations to troubleshooting, testing, and final handover.
 
-Most importantly, I learned how different components — workstations, displays, printers, network switches, and business peripherals — need to work together to ensure users can return to normal operations with minimal disruption.
+Most importantly, I learned how different components: workstations, displays, printers, network switches, and business peripherals - need to work together to ensure users can return to normal operations with minimal disruption.
 
 ## Skills Demonstrated
 
