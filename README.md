@@ -12,6 +12,9 @@ As part of my IT Support internship, I worked alongside a senior technician duri
 
 The objective was to replace and deploy workstation equipment, peripherals, and network hardware while ensuring users could continue accessing the applications, printers, and data required for day-to-day operations.
 
+<img width="637" height="451" alt="image" src="https://github.com/user-attachments/assets/0b58eb58-9021-4eaa-85cd-6b820ddbc6c3" />
+
+
 ### Deployment Scope
 
 - Prepare equipment and new computers for deployment
@@ -32,9 +35,9 @@ We began by identifying, unpacking, and organising the hardware required for the
 This included new displays, printers, workstation equipment, UPS units, and network components. Preparing the equipment first allowed several devices to be staged before moving them to their final locations.
 
 <p align="center">
-  <img src="images/equipment-staging.jpg" width="45%">
+ <img width="296" height="382" alt="image" src="https://github.com/user-attachments/assets/0c812477-d6bc-4148-8d9a-f2c85ebfd354" />
   &nbsp;&nbsp;
-  <img src="images/printer-equipment.jpg" width="45%">
+  <img width="307" height="307" alt="image" src="https://github.com/user-attachments/assets/94187220-5459-428b-8b9d-5c283744b049" />
 </p>
 
 <p align="center">
@@ -44,7 +47,7 @@ This included new displays, printers, workstation equipment, UPS units, and netw
 A temporary staging area was then used to connect and power multiple systems while the deployment was in progress.
 
 <p align="center">
-  <img src="images/staging-area.jpg" width="60%">
+  <img width="535" height="647" alt="image" src="https://github.com/user-attachments/assets/d0c42798-2768-4144-a3d1-65f939bd19db" />
 </p>
 
 <p align="center">
@@ -67,9 +70,9 @@ My hands-on involvement included:
 - Performing workstation validation
 
 <p align="center">
-  <img src="images/senior-workstation-setup.jpg" width="45%">
+  <img width="290" height="370" alt="image" src="https://github.com/user-attachments/assets/9f6b65f7-5b33-4a3b-8113-d3eb89ce1c79" />
   &nbsp;&nbsp;
-  <img src="images/workstation-configuration.jpg" width="45%">
+  <img width="325" height="350" alt="image" src="https://github.com/user-attachments/assets/96c0ec1f-aa9a-4320-bdf5-32b0ce68b4f4" />
 </p>
 
 <p align="center">
@@ -79,7 +82,8 @@ My hands-on involvement included:
 Required Microsoft Office applications were also installed as part of the workstation refresh.
 
 <p align="center">
-  <img src="images/microsoft-office.jpg" width="50%">
+  <img width="450" height="440" alt="image" src="https://github.com/user-attachments/assets/c620641f-2737-4f61-9b27-3c48e07aca02" />
+
 </p>
 
 <p align="center">
@@ -97,9 +101,9 @@ The refresh included replacing and configuring displays and other workstation pe
 I assisted with the physical installation, cable connections, display configuration, and final functionality checks.
 
 <p align="center">
-  <img src="images/display-installation.jpg" width="45%">
+  <img width="326" height="372" alt="image" src="https://github.com/user-attachments/assets/fdf44ffa-cfe3-46d3-a290-79a21a9ecb56" />
   &nbsp;&nbsp;
-  <img src="images/ultrawide-installation.jpg" width="45%">
+  <img width="328" height="376" alt="image" src="https://github.com/user-attachments/assets/b23446b6-1e46-494e-a360-652b5d3eb37a" />
 </p>
 
 <p align="center">
@@ -117,7 +121,7 @@ We then tested the physical display connection by replacing the existing Display
 After replacing the DisplayPort cable, Windows correctly detected the display and the monitor returned to its full native resolution.
 
 <p align="center">
-  <img src="images/display-troubleshooting.jpg" width="55%">
+  <img width="457" height="417" alt="image" src="https://github.com/user-attachments/assets/fa0f78ac-23e3-4d8d-b549-3c84dc551944" />
 </p>
 
 ### Troubleshooting Summary
@@ -145,9 +149,9 @@ Multiple UPS units were prepared and installed across the workstations.
 I assisted with positioning the units, connecting workstation equipment, and ensuring the required devices were receiving power correctly.
 
 <p align="center">
-  <img src="images/ups-installation.jpg" width="45%">
+  <img width="318" height="366" alt="image" src="https://github.com/user-attachments/assets/623de55b-a8f2-4b82-a8e3-065920db78b9" />
   &nbsp;&nbsp;
-  <img src="images/printer-installation.jpg" width="45%">
+  <img width="326" height="317" alt="image" src="https://github.com/user-attachments/assets/d24814bd-e3ce-400a-8323-fc448d185ffa" />
 </p>
 
 <p align="center">
@@ -169,7 +173,7 @@ We ensured that:
 The wider deployment also involved EFTPOS and cash-drawer connectivity, completed alongside the senior technician.
 
 <p align="center">
-  <img src="images/additional-printer.jpg" width="55%">
+  <img width="460" height="492" alt="image" src="https://github.com/user-attachments/assets/4a32ed5b-771e-4578-9272-b3fe63eff78e" />
 </p>
 
 <p align="center">
@@ -183,7 +187,7 @@ The wider deployment also involved EFTPOS and cash-drawer connectivity, complete
 As part of the hardware refresh, I assisted the senior technician with replacing the existing network switch and reconnecting Ethernet connections for the deployed workstations and devices.
 
 <p align="center">
-  <img src="images/new-switch.jpg" width="45%">
+  <img width="402" height="342" alt="image" src="https://github.com/user-attachments/assets/4af02ed5-5f05-4888-b422-d39966d09a2f" />
 </p>
 
 <p align="center">
@@ -193,9 +197,9 @@ As part of the hardware refresh, I assisted the senior technician with replacing
 We verified the physical connections after the switch replacement to ensure the newly deployed equipment had network connectivity.
 
 <p align="center">
-  <img src="images/network-cabinet.jpg" width="45%">
+  <img width="281" height="335" alt="image" src="https://github.com/user-attachments/assets/c9e1958b-2b5b-4a7f-ae5a-38a076423725" />
   &nbsp;&nbsp;
-  <img src="images/switch-connections.jpg" width="45%">
+  <img width="325" height="215" alt="image" src="https://github.com/user-attachments/assets/08ce2214-adbc-4260-b262-91a25e6b39ae" />
 </p>
 
 <p align="center">
@@ -220,9 +224,9 @@ After completing the deployment, we performed final checks to ensure the refresh
 - Performed a final check of each workstation before handover
 
 <p align="center">
-  <img src="images/final-workstation-1.jpg" width="45%">
+  <img width="458" height="476" alt="image" src="https://github.com/user-attachments/assets/5aa288d5-4a36-4273-bd7b-1721513f5e86" />
   &nbsp;&nbsp;
-  <img src="images/final-workstation-2.jpg" width="45%">
+  <img width="458" height="485" alt="image" src="https://github.com/user-attachments/assets/076b0e82-48d7-4370-81a6-4d0935e36c4c" />
 </p>
 
 <p align="center">
@@ -230,9 +234,9 @@ After completing the deployment, we performed final checks to ensure the refresh
 </p>
 
 <p align="center">
-  <img src="images/final-workstation-3.jpg" width="45%">
+ <img width="503" height="328" alt="image" src="https://github.com/user-attachments/assets/fa208ed7-e433-440a-9fc9-ad425ae51f7a" />
   &nbsp;&nbsp;
-  <img src="images/final-workstation-4.jpg" width="45%">
+  <img width="468" height="341" alt="image" src="https://github.com/user-attachments/assets/3bbc7df3-6e92-480f-aab3-ad089f26b3fa" />
 </p>
 
 <p align="center">
